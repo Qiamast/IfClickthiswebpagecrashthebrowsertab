@@ -1,0 +1,2 @@
+# TabCrash
+IfClickthiswebpagecrashthebrowsertab
